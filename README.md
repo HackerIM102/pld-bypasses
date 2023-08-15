@@ -1,7 +1,7 @@
 # pld-bypasses
 Bypass blocksi and time restrictions on PLD issued by school. These restrictions may be too harsh on some, thus, I have included some ways to remove these restrictions.
 # How to use
-1) Go to https://minhaskamal.github.io/DownGit/#/home to download this respository by inputting the link
+1) Click on "code" tab on github and click "download zip".
 2) After downloading the zip file, extract all files in it.
 3) You should see several bypasses to suit your needs
 # Time-restriction-bypass
