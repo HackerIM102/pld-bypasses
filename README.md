@@ -6,8 +6,8 @@ Bypass blocksi and time restrictions on PLD issued by school. These restrictions
 3) You should see several bypasses to suit your needs
 #Time-restriction-bypass
 To bypass the 11pm time's up notification (force shutdown), just run the cancel-shutdown.vbs file, which will automatically cancel any shutdowns later (periodically every 5 minutes).
-#Blocksi web filter bypass
+# Blocksi web filter bypass
 To bypass the web extension filter (blocksi), just run the disable-extensions-blocksi.vbs file. This creates another shortcut to an unblocked chrome via the remove extensions flag.
-#Contributers
+# Contributers
 RRPLD Group members at gg.gg/rrpldsg  
 
